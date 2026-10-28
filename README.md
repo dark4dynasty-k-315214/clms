@@ -45,26 +45,6 @@ The College Library Management System is a web-based application designed to man
 - GitHub – Hosts and manages the project repository.
 - GitHub Pages – Publishes the website online.
 
-## How to Run the Project Locally
-
-1. Download or clone this repository.
-2. Open the project folder.
-3. Open the `index.html` file in a web browser.
-4. Register an account or use the demo login credentials provided in the project, if available.
-
-## How to Deploy on GitHub Pages
-
-1. Upload the project files to a GitHub repository.
-2. Open the repository on GitHub.
-3. Go to **Settings**.
-4. Select **Pages** from the sidebar.
-5. Under the build and deployment section, select **Deploy from a branch**.
-6. Choose the `main` branch and the `/ (root)` folder.
-7. Click **Save**.
-8. Wait for GitHub Pages to publish the website.
-9. Copy the published website link into the Live Demo section above.
-
-Make sure `index.html` is located in the selected publishing folder.
 
 ## Project Objectives
 
@@ -97,6 +77,6 @@ Make sure `index.html` is located in the selected publishing folder.
 
 **Frontend Technologies:** HTML, CSS, JavaScript
 
-**Repository:** Add your GitHub repository link here.
+**Repository:** https://github.com/dark4dynasty-k-315214/clms
 
-**Live Website:** Add your GitHub Pages link here.
+**Live Website:** https://dark4dynasty-k-315214.github.io/clms/
